@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReworkApp", "ReworkApp\ReworkApp.csproj", "{724A2BA2-E65F-4BFA-A718-86E6E2545F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724A2BA2-E65F-4BFA-A718-86E6E2545F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724A2BA2-E65F-4BFA-A718-86E6E2545F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724A2BA2-E65F-4BFA-A718-86E6E2545F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724A2BA2-E65F-4BFA-A718-86E6E2545F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC0124A-1528-4B65-8FA3-F8764F29127C}
+	EndGlobalSection
+EndGlobal
